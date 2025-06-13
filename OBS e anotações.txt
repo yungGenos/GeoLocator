@@ -1,0 +1,5 @@
+O bot no dia 12/06/2025 foi finalizando para pegar a longitude e latitude, apos 6 a 7 hora de operação ele conseguiu pegar  
+2555 CEPs, vale resaltar que o bot pegou algum dados indeticos por conta do Ceps serem iguais.
+
+
+ele sera colocando em operação novamnete no final de dia de hj 

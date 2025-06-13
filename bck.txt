@@ -1,0 +1,59 @@
+import time
+import pandas as pd
+from selenium import webdriver
+from selenium.webdriver.chrome.options import Options
+from selenium.webdriver.common.by import By
+from selenium.webdriver.common.keys import Keys
+from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.support import expected_conditions as EC
+from selenium.webdriver.common.action_chains import ActionCha
+
+
+def abrir_site():
+    chrome_options = Options()
+    chrome_options.add_argument("--window-size=1920,1080")
+
+    driver = webdriver.Chrome(options=chrome_options)
+    driver.get("https://www.google.com/maps")
+    print("✅ Google Maps aberto com sucesso!")
+    return driver
+def pesquisar_cep(driver, cep):
+    try:
+        wait = WebDriverWait(driver, 20)
+
+        # Tenta localizar o campo de busca de forma mais robusta
+        campo_pesquisa = wait.until(EC.presence_of_element_located((By.CSS_SELECTOR, "input#searchboxinput")))
+        campo_pesquisa.clear()
+        campo_pesquisa.send_keys(cep)
+        campo_pesquisa.send_keys(Keys.ENTER)
+
+        print(f"🔍 Buscando CEP: {cep}")
+        time.sleep(8)
+
+    except Exception as e:
+        print(f"❌ Erro ao buscar o CEP {cep}: {e}")
+
+def ler_ceps_do_csv(nome_arquivo):
+    try:
+        df = pd.read_csv(nome_arquivo, encoding='latin1', delimiter=';')
+        # Remove espaços e mantém apenas números (opcional)
+        df['CEP'] = df['CEP'].astype(str).str.strip().str.replace(r'\D', '', regex=True)
+        return df['CEP'].dropna().tolist()
+    except Exception as e:
+        print(f"❌ Erro ao ler o arquivo CSV: {e}")
+        return []
+    
+# ===== INÍCIO DO SCRIPT =====
+
+# ===== EXECUÇÃO PRINCIPAL =====
+if __name__ == "__main__":
+    lista_ceps = ler_ceps_do_csv("base_sp_junho.csv")
+    if lista_ceps:
+        driver = abrir_site()
+        time.sleep(5)
+
+        for cep in lista_ceps:
+            pesquisar_cep(driver, cep)
+
+        print("✅ Consulta de todos os CEPs finalizada!")
+        # driver.quit()  # Descomente para fechar o navegador no final
