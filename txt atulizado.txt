@@ -1,0 +1,330 @@
+📍 Coordenadas capturadas: -23.57411, -46.68446
+🔍 Buscando CEP: 4602050
+📍 Coordenadas capturadas: -23.61596, -46.66995
+🔍 Buscando CEP: 5819000
+📍 Coordenadas capturadas: -23.66717, -46.73499
+🔍 Buscando CEP: 4001907
+📍 Coordenadas capturadas: -23.66717, -46.73499
+🔍 Buscando CEP: 3645090
+📍 Coordenadas capturadas: -23.53240, -46.52777
+🔍 Buscando CEP: 3403001
+📍 Coordenadas capturadas: -23.54744, -46.54219
+🔍 Buscando CEP: 3267000
+📍 Coordenadas capturadas: -23.60268, -46.52606
+🔍 Buscando CEP: 4709011
+📍 Coordenadas capturadas: -23.63224, -46.69063
+🔍 Buscando CEP: 1151000
+📍 Coordenadas capturadas: -23.53363, -46.65392
+🔍 Buscando CEP: 8290220
+📍 Coordenadas capturadas: -23.55687, -46.44447
+🔍 Buscando CEP: 3630040
+📍 Coordenadas capturadas: -23.53522, -46.55030
+🔍 Buscando CEP: 5685000
+📍 Coordenadas capturadas: -23.60832, -46.70058
+🔍 Buscando CEP: 4275050
+📍 Coordenadas capturadas: -23.59659, -46.61471
+🔍 Buscando CEP: 4662070
+📍 Coordenadas capturadas: -23.66173, -46.69682
+🔍 Buscando CEP: 4244000
+📍 Coordenadas capturadas: -23.63381, -46.57796
+🔍 Buscando CEP: 4609004
+📍 Coordenadas capturadas: -23.62220, -46.66651
+🔍 Buscando CEP: 5103000
+📍 Coordenadas capturadas: -23.51856, -46.74820
+🔍 Buscando CEP: 1050030
+📍 Coordenadas capturadas: -23.55223, -46.63999
+🔍 Buscando CEP: 5728030
+📍 Coordenadas capturadas: -23.63463, -46.73756
+🔍 Buscando CEP: 3336010
+📍 Coordenadas capturadas: -23.55518, -46.56388
+🔍 Buscando CEP: 3951220
+📍 Coordenadas capturadas: -23.60606, -46.46388
+🔍 Buscando CEP: 2167080
+📍 Coordenadas capturadas: -23.52703, -46.57842
+🔍 Buscando CEP: 1452001
+📍 Coordenadas capturadas: -23.57463, -46.68786
+🔍 Buscando CEP: 5767901
+📍 Coordenadas capturadas: -23.57463, -46.68786
+🔍 Buscando CEP: 1316010
+📍 Coordenadas capturadas: -23.55385, -46.63822
+🔍 Buscando CEP: 3071100
+📍 Coordenadas capturadas: -23.53590, -46.56167
+🔍 Buscando CEP: 5409010
+📍 Coordenadas capturadas: -23.56082, -46.67131
+🔍 Buscando CEP: 4117040
+📍 Coordenadas capturadas: -23.59100, -46.63173
+🔍 Buscando CEP: 4631011
+📍 Coordenadas capturadas: -23.63433, -46.66086
+🔍 Buscando CEP: 3721070
+📍 Coordenadas capturadas: -23.50364, -46.52214
+🔍 Buscando CEP: 5128000
+📍 Coordenadas capturadas: -23.49452, -46.73725
+🔍 Buscando CEP: 4128000
+📍 Coordenadas capturadas: -23.60576, -46.63127
+🔍 Buscando CEP: 1154020
+📍 Coordenadas capturadas: -23.53266, -46.65756
+🔍 Buscando CEP: 4310010
+📍 Coordenadas capturadas: -23.63504, -46.63786
+🔍 Buscando CEP: 3071100
+📍 Coordenadas capturadas: -23.53590, -46.56167
+🔍 Buscando CEP: 4043150
+📍 Coordenadas capturadas: -23.60688, -46.63816
+🔍 Buscando CEP: 4078002
+📍 Coordenadas capturadas: -23.61210, -46.65344
+🔍 Buscando CEP: 4169000
+📍 Coordenadas capturadas: -23.64573, -46.60805
+🔍 Buscando CEP: 1418000
+📍 Coordenadas capturadas: -23.64573, -46.60805
+🔍 Buscando CEP: 4216000
+📍 Coordenadas capturadas: -23.59175, -46.59621
+🔍 Buscando CEP: 5424000
+📍 Coordenadas capturadas: -23.57138, -46.69668
+🔍 Buscando CEP: 4043150
+📍 Coordenadas capturadas: -23.60688, -46.63816
+🔍 Buscando CEP: 1301100
+📍 Coordenadas capturadas: -23.55813, -46.65157
+🔍 Buscando CEP: 3040901
+📍 Coordenadas capturadas: 32.31388, 35.03081
+🔍 Buscando CEP: 4017020
+📍 Coordenadas capturadas: -23.58998, -46.63595
+🔍 Buscando CEP: 4304010
+📍 Coordenadas capturadas: -23.62981, -46.63465
+🔍 Buscando CEP: 5363000
+📍 Coordenadas capturadas: -23.57753, -46.74255
+🔍 Buscando CEP: 4216000
+📍 Coordenadas capturadas: -23.59175, -46.59621
+🔍 Buscando CEP: 4316000
+📍 Coordenadas capturadas: -23.64433, -46.63501
+🔍 Buscando CEP: 3756000
+📍 Coordenadas capturadas: -23.50907, -46.49892
+🔍 Buscando CEP: 8290001
+📍 Coordenadas capturadas: -23.56291, -46.44369
+🔍 Buscando CEP: 4618003
+📍 Coordenadas capturadas: -23.62267, -46.67323
+🔍 Buscando CEP: 3362020
+📍 Coordenadas capturadas: -23.56808, -46.54087
+🔍 Buscando CEP: 5143320
+📍 Coordenadas capturadas: -23.50121, -46.71867
+🔍 Buscando CEP: 4143010
+📍 Coordenadas capturadas: -23.78311, -46.60704
+🔍 Buscando CEP: 4263200
+📍 Coordenadas capturadas: -23.60253, -46.60657
+🔍 Buscando CEP: 3362020
+📍 Coordenadas capturadas: -23.56808, -46.54087
+🔍 Buscando CEP: 4225080
+📍 Coordenadas capturadas: -23.60493, -46.58651
+🔍 Buscando CEP: 3085010
+📍 Coordenadas capturadas: -23.53395, -46.56690
+🔍 Buscando CEP: 3051000
+📍 Coordenadas capturadas: -23.54640, -46.60769
+🔍 Buscando CEP: 1424005
+📍 Coordenadas capturadas: -23.56918, -46.66056
+🔍 Buscando CEP: 1138000
+📍 Coordenadas capturadas: -23.52608, -46.65241
+🔍 Buscando CEP: 4696040
+📍 Coordenadas capturadas: -23.67453, -46.69707
+🔍 Buscando CEP: 2190120
+📍 Coordenadas capturadas: -23.51010, -46.55774
+🔍 Buscando CEP: 8295015
+📍 Coordenadas capturadas: -23.55129, -46.47342
+🔍 Buscando CEP: 2727000
+📍 Coordenadas capturadas: -23.49978, -46.68060
+🔍 Buscando CEP: 5439010
+📍 Coordenadas capturadas: -23.55202, -46.68722
+🔍 Buscando CEP: 5068001
+📍 Coordenadas capturadas: -23.51782, -46.70225
+🔍 Buscando CEP: 3281001
+📍 Coordenadas capturadas: -23.60352, -46.52376
+🔍 Buscando CEP: 5641110
+📍 Coordenadas capturadas: -23.62050, -46.73658
+🔍 Buscando CEP: 4750030
+📍 Coordenadas capturadas: -23.65024, -46.70223
+🔍 Buscando CEP: 3801070
+📍 Coordenadas capturadas: -23.50691, -46.48887
+🔍 Buscando CEP: 5220000
+📍 Coordenadas capturadas: -23.40843, -46.72112
+🔍 Buscando CEP: 4727130
+📍 Coordenadas capturadas: -23.64628, -46.71089
+🔍 Buscando CEP: 4123020
+📍 Coordenadas capturadas: -23.60314, -46.62132
+🔍 Buscando CEP: 4459050
+📍 Coordenadas capturadas: -23.69624, -46.67253
+🔍 Buscando CEP: 8275120
+📍 Coordenadas capturadas: -23.57330, -46.47609
+🔍 Buscando CEP: 1420000
+📍 Coordenadas capturadas: -23.56889, -46.65162
+🔍 Buscando CEP: 4444000
+📍 Coordenadas capturadas: -23.69557, -46.67899
+🔍 Buscando CEP: 5788370
+📍 Coordenadas capturadas: -23.63404, -46.77491
+🔍 Buscando CEP: 1228901
+📍 Coordenadas capturadas: -23.63404, -46.77491
+🔍 Buscando CEP: 4363040
+📍 Coordenadas capturadas: -23.64792, -46.66223
+🔍 Buscando CEP: 5033080
+📍 Coordenadas capturadas: -23.52637, -46.68094
+🔍 Buscando CEP: 5220000
+📍 Coordenadas capturadas: -23.40843, -46.72112
+🔍 Buscando CEP: 4582030
+📍 Coordenadas capturadas: -23.62078, -46.68752
+🔍 Buscando CEP: 3044000
+📍 Coordenadas capturadas: -23.55387, -46.61600
+🔍 Buscando CEP: 1531000
+📍 Coordenadas capturadas: -23.57373, -46.63008
+🔍 Buscando CEP: 5171010
+📍 Coordenadas capturadas: -23.48056, -46.75113
+🔍 Buscando CEP: 3951220
+📍 Coordenadas capturadas: -23.60606, -46.46388
+🔍 Buscando CEP: 4582000
+📍 Coordenadas capturadas: -23.62293, -46.68612
+🔍 Buscando CEP: 3960030
+📍 Coordenadas capturadas: -23.59787, -46.48022
+🔍 Buscando CEP: 4363040
+📍 Coordenadas capturadas: -23.64792, -46.66223
+🔍 Buscando CEP: 4135020
+📍 Coordenadas capturadas: -23.61133, -46.62717
+🔍 Buscando CEP: 5220000
+📍 Coordenadas capturadas: -23.40843, -46.72112
+🔍 Buscando CEP: 4619002
+📍 Coordenadas capturadas: -23.62491, -46.67436
+🔍 Buscando CEP: 3691020
+📍 Coordenadas capturadas: -23.53685, -46.48186
+🔍 Buscando CEP: 3590210
+📍 Coordenadas capturadas: -23.55371, -46.48789
+🔍 Buscando CEP: 4536070
+📍 Coordenadas capturadas: -23.58603, -46.67655
+🔍 Buscando CEP: 4602050
+📍 Coordenadas capturadas: -23.61596, -46.66995
+🔍 Buscando CEP: 4186100
+📍 Coordenadas capturadas: -23.64885, -46.59020
+🔍 Buscando CEP: 3357010
+📍 Coordenadas capturadas: -23.56695, -46.55360
+🔍 Buscando CEP: 5404014
+📍 Coordenadas capturadas: -23.56838, -46.68338
+🔍 Buscando CEP: 1153040
+📍 Coordenadas capturadas: -23.52991, -46.65125
+🔍 Buscando CEP: 5801050
+📍 Coordenadas capturadas: -23.65020, -46.73126
+🔍 Buscando CEP: 5512000
+📍 Coordenadas capturadas: -23.59031, -46.70406
+🔍 Buscando CEP: 5017020
+📍 Coordenadas capturadas: -23.53938, -46.67522
+🔍 Buscando CEP: 3502000
+📍 Coordenadas capturadas: -23.54105, -46.53539
+🔍 Buscando CEP: 5705270
+📍 Coordenadas capturadas: -23.62645, -46.71803
+🔍 Buscando CEP: 5411000
+📍 Coordenadas capturadas: -23.56307, -46.67367
+🔍 Buscando CEP: 1408010
+📍 Coordenadas capturadas: -23.57171, -46.65898
+🔍 Buscando CEP: 4537011
+📍 Coordenadas capturadas: -23.59115, -46.67684
+🔍 Buscando CEP: 5017020
+📍 Coordenadas capturadas: -23.53938, -46.67522
+🔍 Buscando CEP: 3378050
+📍 Coordenadas capturadas: -23.57520, -46.54104
+🔍 Buscando CEP: 4661100
+📍 Coordenadas capturadas: -23.67789, -46.62711
+🔍 Buscando CEP: 4744010
+📍 Coordenadas capturadas: -23.65776, -46.70211
+🔍 Buscando CEP: 5223120
+📍 Coordenadas capturadas: -23.41120, -46.73474
+🔍 Buscando CEP: 4304001
+📍 Coordenadas capturadas: -23.62806, -46.63081
+🔍 Buscando CEP: 8295015
+📍 Coordenadas capturadas: -23.55129, -46.47342
+🔍 Buscando CEP: 5161000
+📍 Coordenadas capturadas: -23.46870, -46.75325
+🔍 Buscando CEP: 1224030
+📍 Coordenadas capturadas: -23.54169, -46.65035
+🔍 Buscando CEP: 4363040
+📍 Coordenadas capturadas: -23.64792, -46.66223
+🔍 Buscando CEP: 2831000
+📍 Coordenadas capturadas: -23.47928, -46.68741
+🔍 Buscando CEP: 5762150
+📍 Coordenadas capturadas: -23.64372, -46.76146
+🔍 Buscando CEP: 4744010
+📍 Coordenadas capturadas: -23.65776, -46.70211
+🔍 Buscando CEP: 4542902
+📍 Coordenadas capturadas: -23.65776, -46.70211
+🔍 Buscando CEP: 4202020
+❌ Erro ao capturar coordenadas: HTTPConnectionPool(host='localhost', port=52415): Read timed out. (read timeout=120)   
+🔍 Buscando CEP: 5762150
+📍 Coordenadas capturadas: -23.64372, -46.76146
+🔍 Buscando CEP: 1020902
+📍 Coordenadas capturadas: -18.47679, -70.29092
+🔍 Buscando CEP: 8412030
+📍 Coordenadas capturadas: -23.54830, -46.40547
+🔍 Buscando CEP: 1033900
+📍 Coordenadas capturadas: -23.54830, -46.40547
+🔍 Buscando CEP: 4530040
+❌ Erro ao capturar coordenadas: HTTPConnectionPool(host='localhost', port=52415): Read timed out. (read timeout=120)   
+🔍 Buscando CEP: 5756240
+📍 Coordenadas capturadas: -23.62597, -46.75740
+🔍 Buscando CEP: 8420000
+📍 Coordenadas capturadas: -23.53247, -46.43634
+🔍 Buscando CEP: 4216001
+📍 Coordenadas capturadas: -23.59814, -46.59562
+🔍 Buscando CEP: 4847900
+📍 Coordenadas capturadas: -23.59814, -46.59562
+🔍 Buscando CEP: 5125040
+📍 Coordenadas capturadas: -23.50642, -46.73581
+🔍 Buscando CEP: 1031902
+📍 Coordenadas capturadas: -23.50642, -46.73581
+🔍 Buscando CEP: 4220001
+📍 Coordenadas capturadas: -23.59795, -46.58638
+🔍 Buscando CEP: 1011903
+📍 Coordenadas capturadas: -23.59795, -46.58638
+🔍 Buscando CEP: 4660002
+📍 Coordenadas capturadas: -23.70459, -46.66693
+🔍 Buscando CEP: 5688000
+📍 Coordenadas capturadas: -23.61521, -46.70372
+🔍 Buscando CEP: 5665090
+📍 Coordenadas capturadas: -23.62171, -46.71771
+🔍 Buscando CEP: 8440540
+📍 Coordenadas capturadas: -23.53376, -46.40585
+🔍 Buscando CEP: 5023001
+📍 Coordenadas capturadas: -23.54498, -46.68770
+🔍 Buscando CEP: 4131000
+📍 Coordenadas capturadas: -23.60810, -46.61437
+🔍 Buscando CEP: 2739000
+📍 Coordenadas capturadas: -23.48708, -46.68455
+🔍 Buscando CEP: 2435000
+📍 Coordenadas capturadas: -23.48360, -46.63908
+🔍 Buscando CEP: 5782460
+📍 Coordenadas capturadas: -23.65515, -46.76506
+🔍 Buscando CEP: 2732040
+📍 Coordenadas capturadas: -23.52216, -46.68111
+🔍 Buscando CEP: 4360020
+📍 Coordenadas capturadas: -23.64410, -46.66125
+🔍 Buscando CEP: 5777180
+📍 Coordenadas capturadas: -23.64617, -46.74527
+🔍 Buscando CEP: 3155100
+📍 Coordenadas capturadas: -23.60861, -46.54512
+🔍 Buscando CEP: 5133100
+📍 Coordenadas capturadas: -23.49232, -46.73883
+🔍 Buscando CEP: 3434000
+📍 Coordenadas capturadas: -23.56103, -46.52991
+🔍 Buscando CEP: 2035011
+📍 Coordenadas capturadas: -23.49943, -46.62075
+🔍 Buscando CEP: 4111000
+📍 Coordenadas capturadas: -23.58989, -46.63047
+🔍 Buscando CEP: 8295370
+❌ Erro ao capturar coordenadas: HTTPConnectionPool(host='localhost', port=52415): Read timed out. (read timeout=120)   
+🔍 Buscando CEP: 4870133
+📍 Coordenadas capturadas: -23.75114, -46.75267
+🔍 Buscando CEP: 5727160
+📍 Coordenadas capturadas: -23.63020, -46.73584
+🔍 Buscando CEP: 3434000
+📍 Coordenadas capturadas: -23.56103, -46.52991
+🔍 Buscando CEP: 5365060
+📍 Coordenadas capturadas: -23.57776, -46.74644
+🔍 Buscando CEP: 4548000
+📍 Coordenadas capturadas: -23.60568, -46.67259
+🔍 Buscando CEP: 2968090
+📍 Coordenadas capturadas: -23.47989, -46.70718
+🔍 Buscando CEP: 4630010
+📍 Coordenadas capturadas: -23.63801, -46.65903
+🔍 Buscando CEP: 5665090
+📍 Coordenadas capturadas: -23.62171, -46.71771
+🔍 Buscando CEP: 4278040
