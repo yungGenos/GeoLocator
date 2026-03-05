@@ -24,18 +24,20 @@ id,nome,cep,endereco,latitude,longitude
 
 Estrutura de Arquivos
 Coletor-de-dados-long_lati/
+
+🎯 Coletor-de-dados-long_lati/
 │
-├── BCK2.py                              # Script principal de coleta
-├── insetjunho.py                        # Script alternativo para processamento
-├── base_sp_junho.csv                    # Arquivo de dados de entrada (exemplo)
-├── teste de lat-log.csv                 # Arquivo de teste
-├── pip-install.txt                      # Dependências do projeto
-├── requirements.txt                     # (Recomendado adicionar)
-├── README.md                            # Este arquivo
+├── 📄 BCK2.py                      ⚙️ Script principal de coleta
+├── 📄 insetjunho.py                ⚙️ Script alternativo
+├── 📊 base_sp_junho.csv            📈 Dados de entrada (exemplo)
+├── 📊 teste de lat-log.csv         🧪 Arquivo de teste
+├── 📋 pip-install.txt              📦 Dependências
+├── 📋 requirements.txt             📦 (Recomendado)
+├── 📖 README.md                    📘 Este arquivo
 │
-└── Dados/
-    ├── Resultado da tabela.txt          # Resultado do processamento
-    └── OBS e anotações.txt              # Observações importantes
+└── 📁 Dados/
+    ├── 📝 Resultado da tabela.txt  ✅ Processamento concluído
+    └── 📝 OBS e anotações.txt      💭 Observações importantes
 
 💡 Exemplos de Uso
 Exemplo 1: Processar arquivo simples
@@ -120,8 +122,11 @@ Abra um Pull Request
 Este projeto está sob licença MIT. Veja o arquivo LICENSE para mais detalhes.
 
 📞 Suporte e Contato
+
 Autor: @yungGenos
+
 GitHub: github.com/yungGenos
+
 linkdin: https://www.linkedin.com/in/kaique-genonadio-451102203/ 
 
 🎓 Dicas de Otimização
