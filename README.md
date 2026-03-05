@@ -26,14 +26,22 @@ Estrutura de Arquivos
 Coletor-de-dados-long_lati/
 
 🎯 Coletor-de-dados-long_lati/
+
 │
 ├── 📄 BCK2.py                      ⚙️ Script principal de coleta
+
 ├── 📄 insetjunho.py                ⚙️ Script alternativo
+
 ├── 📊 base_sp_junho.csv            📈 Dados de entrada (exemplo)
+
 ├── 📊 teste de lat-log.csv         🧪 Arquivo de teste
+
 ├── 📋 pip-install.txt              📦 Dependências
+
 ├── 📋 requirements.txt             📦 (Recomendado)
+
 ├── 📖 README.md                    📘 Este arquivo
+
 │
 └── 📁 Dados/
     ├── 📝 Resultado da tabela.txt  ✅ Processamento concluído
@@ -161,9 +169,3 @@ Esse README cobre:
 - ✅ Troubleshooting
 - ✅ Dicas de otimização
 
-Quer que eu:
-1. **Crie um arquivo `requirements.txt`** com todas as dependências?
-2. **Adicione exemplos de código Python** mais específicos?
-3. **Crie um guia de contribuição** mais detalhado?
-
-Avise! 🚀
